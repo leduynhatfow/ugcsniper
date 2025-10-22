@@ -1,0 +1,36 @@
+{
+    "proxy": false,
+    "global_max_price": 0,
+    "run_sniper_and_autosearch": false,
+    "autosearch": false,
+    "threads": {
+        "searcherv2_threads": 1,
+        "buy_threads": 1
+    },
+    "webhook": {
+        "enabled": true,
+        "url": ""
+    },
+    "antiratelimit": {
+        "v1_wait_time": 1,
+        "v2_wait_time": 0,
+        "v2_auto_wait_time": true
+    },
+    "cookies": {
+        "search_cookie": "",
+        "buy_cookie": ""
+    },
+    "items": [],
+    "tokens": {
+        "watchers": [
+            ""
+        ]
+    },
+    "tokenbot_discord": {
+        "token": "",
+        "enabled": false,
+        "authorized_users": [
+            912887154508693534
+        ]
+    }
+}

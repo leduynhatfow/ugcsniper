@@ -1,0 +1,5 @@
+aiohttp
+requests
+websockets
+aiofiles
+discord.py

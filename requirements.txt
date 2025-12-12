@@ -3,3 +3,4 @@ requests
 websockets
 aiofiles
 discord.py
+httpx
